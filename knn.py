@@ -1,5 +1,3 @@
-# put the dataset directory and source code files in the same directory
-
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.preprocessing import LabelEncoder
 from sklearn.model_selection import train_test_split
